@@ -1,0 +1,4 @@
+1) Create windows form with button that on push chooses file path.
+2) Save that file location in string format.
+3) Convert that string format to JSON.
+4) Create button and code it to create txt file that has path in JSON format in it.
